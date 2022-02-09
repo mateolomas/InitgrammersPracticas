@@ -1,0 +1,167 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background: rgb(255,234,224);
+background: linear-gradient(45deg, rgba(255,234,224,1) 13%, rgba(224,239,254,1) 100%);
+    
+    
+}
+.title-content-card {
+    display: flex;
+    flex-direction: column;
+}
+
+.big-title {
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+    margin: 15px;
+    margin-right: 20%;
+    margin-left: 20%;
+    
+}
+
+.big-title h1:nth-child(2) {
+    color: rgb(164,0,206)
+}
+
+.welcome-text {
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+    color: black;
+    margin: 25px;
+    
+    text-align: center;
+    
+}
+
+.buttons-container {
+    
+    align-self: center;
+    
+    }
+
+#explore {
+    background-color: rgb(164,0,206);
+    border-radius: 20px;
+    font-family: sans-serif;
+    color: white;
+    font-weight: lighter;
+    padding: 17px;   
+}
+
+#watch {
+    width: 100%;
+    display: flex;
+    font-family: sans-serif;
+    align-items: center;
+    font-size: 15px;
+    font-weight: lighter;
+    color: black;
+
+}
+
+
+
+
+
+.cards-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 15px;
+    
+
+}
+
+.card-plans {
+    
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+    border-radius: 15px;
+    border: 3px solid white;
+    background: rgb(78,90,99);
+    background: linear-gradient(227deg, rgba(78,90,99,1) 13%, rgba(48,43,47,1) 100%);
+    align-items: center;
+    
+    
+}
+
+
+
+.plan-type {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    color: white;
+    background-color: rgb(255,0,171);
+    padding: 15px;
+    border-radius: 15px;
+    font-family: sans-serif;
+    font-size: 16px;
+margin: 20px;
+    
+}
+
+.features {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: white;
+    font-family: sans-serif;
+    font-size: 13px;
+    
+}
+
+
+@media (min-width: 640px) {
+    .cards-container {
+        
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        margin: 300px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        
+    
+    }
+
+        .plan-type {
+            width: 150px;
+        }
+
+    
+    #explore {
+        width: 200px;
+        margin: 10px;
+    }
+
+    .buttons-container {
+        display: flex;
+        padding: 25px;
+        margin: 10px;
+        
+        
+    
+    }
+
+    .big-title {
+        
+        margin-right: 35%;
+        margin-left: 35%;
+    }
+    
+    .welcome-text {
+        margin-right: 35%;
+        margin-left: 35%;
+    }
+    
+}
+    
