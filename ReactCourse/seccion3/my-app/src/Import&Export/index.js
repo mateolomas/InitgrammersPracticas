@@ -1,13 +1,13 @@
 
 import  heroes  from "./data/hero";
 
-console.log(heroes);
+//console.log(heroes);
 
-const getUserbyId = (id) => heroes.find(hero => hero.id === id);
+export const getUserbyId = (id) => heroes.find(hero => hero.id === id);
 
 
-console.log(getUserbyId(2));
+//console.log(getUserbyId(2));
 
-const getHeroesByOwner = (owner) => heroes.filter(hero => hero.owner === owner);
+export const getHeroesByOwner = (owner) => heroes.filter(hero => hero.owner === owner);
 
-console.log(getHeroesByOwner('DC'));
+//console.log(getHeroesByOwner('DC'));
