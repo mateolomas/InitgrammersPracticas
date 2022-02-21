@@ -1,0 +1,303 @@
+{
+  "people": [
+    {
+      "id": 0,
+      "guid": "a7e70735-0f9c-4d9c-8939-0cfea8fc840e",
+      "isActive": true,
+      "balance": "$1,672.14",
+      "picture": "http://placehold.it/32x32",
+      "age": 35,
+      "eyeColor": "brown",
+      "name": "Dianne Delgado",
+      "gender": "female",
+      "company": "QUINTITY",
+      "email": "diannedelgado@quintity.com",
+      "phone": "+1 (830) 523-3489",
+      "address": "170 Nevins Street, Glendale, Washington, 6784",
+      "about": "Exercitation Lorem aliquip mollit et Lorem irure Lorem ex. Ex tempor est adipisicing est pariatur ipsum qui sint. Ut nisi pariatur nulla esse consequat dolore consequat. Ex enim velit proident est commodo ex. Culpa duis elit labore id et nulla officia elit proident.\r\n",
+      "registered": "2019-12-12T04:46:19 +05:00",
+      "latitude": 34.206764,
+      "longitude": -91.805827,
+      "tags": [
+        "qui",
+        "elit",
+        "voluptate",
+        "ea",
+        "exercitation",
+        "ut",
+        "magna"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Leblanc Peck"
+        },
+        {
+          "id": 1,
+          "name": "Glenn Rodriguez"
+        },
+        {
+          "id": 2,
+          "name": "Lauri Ellis"
+        }
+      ],
+      "greeting": "Hello, Dianne Delgado! You have 2 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "id": 1,
+      "name": "School of Biology",
+      "careers": [
+        "Biology",
+        "Biomedicine"
+      ]
+    },
+    {
+      "id": 2,
+      "guid": "29b0fd31-5434-4672-8bad-fcf6248ddf62",
+      "isActive": false,
+      "balance": "$3,377.28",
+      "picture": "http://placehold.it/32x32",
+      "age": 22,
+      "eyeColor": "green",
+      "name": "Amparo Roman",
+      "gender": "female",
+      "company": "ORBALIX",
+      "email": "amparoroman@orbalix.com",
+      "phone": "+1 (934) 512-3145",
+      "address": "710 Rutledge Street, Leola, Texas, 7385",
+      "about": "Aliqua sint commodo pariatur et minim nisi. Amet dolore consectetur officia cupidatat do dolor dolor nulla. Ipsum sint adipisicing ipsum cillum duis aute dolor minim nulla consectetur incididunt nulla. Mollit duis velit elit voluptate officia consequat eiusmod quis magna laboris. Laboris irure velit laboris fugiat nostrud tempor. Minim Lorem ad duis ex et aute ea quis irure sit reprehenderit.\r\n",
+      "registered": "2021-01-11T04:02:51 +05:00",
+      "latitude": 36.63178,
+      "longitude": -3.650076,
+      "tags": [
+        "laboris",
+        "in",
+        "dolore",
+        "aute",
+        "laboris",
+        "nostrud",
+        "reprehenderit"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Marks Gould"
+        },
+        {
+          "id": 1,
+          "name": "Crane Holden"
+        },
+        {
+          "id": 2,
+          "name": "Jacqueline Henderson"
+        }
+      ],
+      "greeting": "Hello, Amparo Roman! You have 7 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "id": 3,
+      "guid": "e01c274f-c866-4334-bc7f-fb156b6a94fd",
+      "isActive": true,
+      "balance": "$1,566.76",
+      "picture": "http://placehold.it/32x32",
+      "age": 21,
+      "eyeColor": "brown",
+      "name": "Malone Oliver",
+      "gender": "male",
+      "company": "EWEVILLE",
+      "email": "maloneoliver@eweville.com",
+      "phone": "+1 (919) 454-3819",
+      "address": "124 Calder Place, Kilbourne, Rhode Island, 3772",
+      "about": "Pariatur eu nisi consequat qui ullamco proident incididunt cillum adipisicing pariatur deserunt cillum. Ea sint officia dolor sunt qui commodo pariatur aute. Eu reprehenderit aute fugiat officia eiusmod culpa amet duis eiusmod excepteur exercitation laboris sint. Velit qui consectetur occaecat eiusmod cupidatat ad proident excepteur voluptate reprehenderit amet. Lorem aliqua irure esse adipisicing. Nisi ipsum ipsum mollit incididunt occaecat duis quis. Aute enim eu esse incididunt nisi cupidatat.\r\n",
+      "registered": "2019-12-25T08:31:55 +05:00",
+      "latitude": 61.728044,
+      "longitude": -89.187649,
+      "tags": [
+        "id",
+        "ullamco",
+        "enim",
+        "id",
+        "mollit",
+        "officia",
+        "dolore"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Christian Keller"
+        },
+        {
+          "id": 1,
+          "name": "Noble Silva"
+        },
+        {
+          "id": 2,
+          "name": "Cooper Sexton"
+        }
+      ],
+      "greeting": "Hello, Malone Oliver! You have 2 unread messages.",
+      "favoriteFruit": "strawberry"
+    },
+    {
+      "id": 4,
+      "guid": "935bb094-a3cd-47fb-a410-3a5c3b84f109",
+      "isActive": false,
+      "balance": "$2,580.49",
+      "picture": "http://placehold.it/32x32",
+      "age": 40,
+      "eyeColor": "blue",
+      "name": "Vincent Copeland",
+      "gender": "male",
+      "company": "EMERGENT",
+      "email": "vincentcopeland@emergent.com",
+      "phone": "+1 (820) 508-3600",
+      "address": "298 Jodie Court, Winfred, Missouri, 759",
+      "about": "Enim esse ad quis veniam amet. Consectetur sunt ad ad deserunt pariatur culpa occaecat ex. Sit elit proident quis eiusmod pariatur do exercitation dolor deserunt mollit.\r\n",
+      "registered": "2016-05-09T04:08:54 +05:00",
+      "latitude": 15.573237,
+      "longitude": -157.092271,
+      "tags": [
+        "tempor",
+        "tempor",
+        "ipsum",
+        "ea",
+        "sit",
+        "dolore",
+        "laborum"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Hendricks Hahn"
+        },
+        {
+          "id": 1,
+          "name": "Good Pacheco"
+        },
+        {
+          "id": 2,
+          "name": "Eddie Hubbard"
+        }
+      ],
+      "greeting": "Hello, Vincent Copeland! You have 10 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "id": 5,
+      "guid": "53b7609f-d314-4824-8c83-7f85ff5f0a60",
+      "isActive": true,
+      "balance": "$3,612.07",
+      "picture": "http://placehold.it/32x32",
+      "age": 36,
+      "eyeColor": "blue",
+      "name": "Armstrong Holder",
+      "gender": "male",
+      "company": "EQUICOM",
+      "email": "armstrongholder@equicom.com",
+      "phone": "+1 (951) 433-3353",
+      "address": "912 Ludlam Place, Somerset, Illinois, 7907",
+      "about": "Labore velit anim cupidatat id sit commodo. In ullamco magna nisi occaecat reprehenderit in ipsum nostrud eiusmod sint do et eu veniam. Sint nisi tempor amet ex elit in nisi fugiat laboris consectetur pariatur ut esse. In veniam exercitation enim eu eiusmod duis quis excepteur et sint nisi sit. Adipisicing pariatur sint irure adipisicing irure sunt ullamco. Enim reprehenderit sunt consequat amet sint eiusmod ex qui sit Lorem minim non. Non nostrud ex non laboris aliqua aliquip laboris ullamco ex amet esse reprehenderit reprehenderit incididunt.\r\n",
+      "registered": "2016-01-17T05:20:37 +05:00",
+      "latitude": -32.409721,
+      "longitude": 115.270046,
+      "tags": [
+        "magna",
+        "mollit",
+        "duis",
+        "velit",
+        "ex",
+        "labore",
+        "laboris"
+      ],
+      "friends": [
+        {
+          "id": 0,
+          "name": "Vinson Ray"
+        },
+        {
+          "id": 1,
+          "name": "Waters David"
+        },
+        {
+          "id": 2,
+          "name": "Kitty Barrett"
+        }
+      ],
+      "greeting": "Hello, Armstrong Holder! You have 4 unread messages.",
+      "favoriteFruit": "banana"
+    },
+    {
+      "id": 6,
+      "name": "School of Geology",
+      "careers": [
+        "Biology",
+        "Biomedicine"
+      ]
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "Information Security",
+      "schedule": [
+        "Monday",
+        "Sunday",
+        "Friday"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Web programming",
+      "schedule": [
+        "Friday",
+        "Monday",
+        "Tuesday"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Machine Learning",
+      "schedule": [
+        "Wednesday",
+        "Friday",
+        "Tuesday"
+      ]
+    }
+  ],
+  "schools": [
+    {
+      "id": 2,
+      "name": "School of Maths",
+      "careers": [
+        "Maths",
+        "IT"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "School of Physics",
+      "careers": [
+        "Physics",
+        "Nanotechnology"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "School of Chemistry",
+      "careers": [
+        "Chemistry",
+        "Polimers"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "School of Geology",
+      "careers": [
+        "Biology",
+        "Biomedicine"
+      ]
+    }
+  ]
+}
