@@ -1,5 +1,4 @@
-import React from "react";
-import logo from "./logo.svg";
+
 import "./App.css";
 import TaskList from "./components/TaskList";
 import Task from "../src/interfaces/Task";
@@ -7,9 +6,7 @@ import TaskForm from "./components/TaskForm";
 import { useState } from 'react';
 
 
-interface Title {
-  title: string;
-}
+
 
 function App() {
   const [tasks, setTask] = useState<Task[]>([
